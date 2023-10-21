@@ -1,2 +1,2 @@
 # Competitive Programming
-Competitive Programming practice repo.
+Competitive Programming solutions  repo.
