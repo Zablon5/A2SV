@@ -5,7 +5,8 @@ class Solution:
             graph[v].append([u,succProb[i]])
             graph[u].append([v,succProb[i]])
         if end_node not in graph:
-            return 0    
+            return 0   
+           #commenting 
         probs={node:0 for node in graph}   
         probs[start_node]=-1
         heap=[(-1,start_node)]
