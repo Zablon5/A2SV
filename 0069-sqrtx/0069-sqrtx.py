@@ -13,7 +13,6 @@ class Solution:
 
             elif mid*mid>x:
                 r=mid-1
-
         return ans
 
         
