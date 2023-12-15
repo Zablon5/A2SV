@@ -5,8 +5,7 @@ class Solution:
         leftrow=[0]*n
         upperdiag=[0]*(2*n-1)
         lowerdiag=[0]*(2*n-1)
-        print(board)
-                               
+        
         def solve(col,board,ans,n,leftrow,upperdiag,lowerdiag):
             if col==n:
 
