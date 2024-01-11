@@ -6,36 +6,47 @@
 #         self.right = right
 class Solution:
     def amountOfTime(self, root: TreeNode, start: int) -> int:
-        tree_map: Dict[int, Set[int]] = {}
-        self.convert(root, 0, tree_map)
-        queue = deque([start])
-        minute = 0
-        visited = {start}
-
-        while queue:
-            level_size = len(queue)
-            while level_size > 0:
-                current = queue.popleft()
-                for num in tree_map[current]:
-                    if num not in visited:
-                        visited.add(num)
-                        queue.append(num)
-                level_size -= 1
-            minute += 1
-
-        return minute - 1
-
-    def convert(self, current: TreeNode, parent: int, tree_map: Dict[int, Set[int]]):
-        if current is None:
-            return
-        if current.val not in tree_map:
-            tree_map[current.val] = set()
-        adjacent_list = tree_map[current.val]
-        if parent != 0:
-            adjacent_list.add(parent)
-        if current.left:
-            adjacent_list.add(current.left.val)
-        if current.right:
-            adjacent_list.add(current.right.val)
-        self.convert(current.left, current.val, tree_map)
-        self.convert(current.right, current.val, tree_map)
+        q=deque()
+        chiledparent={}
+        q.append(root)
+        startnode=None
+        visited=set()
+        
+        if root.val==start:
+            startnode=root
+        while q:
+            node=q.popleft()
+            if node.left:
+                if node.left.val==start:
+                    startnode=node.left
+                chiledparent[node.left]=node
+                q.append(node.left)
+            if node.right:
+                if node.right.val==start:
+                    startnode=node.right
+                chiledparent[node.right]=node
+                q.append(node.right)
+        visited.add(startnode)
+        q.append(startnode)
+     
+        ans=0
+        while q:
+            n=len(q)
+            for i in range(n):
+                node=q.popleft()
+                if node in chiledparent and chiledparent[node] not in visited:
+                    visited.add(chiledparent[node])
+                    
+                    q.append(chiledparent[node])
+                if node.left and node.left not in visited:
+                    visited.add(node.left)
+                    q.append(node.left)
+                if node.right and node.right not in visited:
+                    visited.add(node.right)
+                    q.append(node.right)
+            ans+=1
+                
+        return ans-1
+                
+        
+        
