@@ -37,5 +37,10 @@ Competitive Programming solutions  repo.
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/Zablon5/A2SV/tree/master/1642-water-bottles) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Zablon5/A2SV/tree/master/2299-merge-nodes-in-between-zeros) |
+## Math
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/Zablon5/A2SV/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->
