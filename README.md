@@ -8,6 +8,7 @@ Competitive Programming solutions  repo.
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Zablon5/A2SV/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/Zablon5/A2SV/tree/master/1293-three-consecutive-odds) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/Zablon5/A2SV/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Zablon5/A2SV/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1803-average-waiting-time](https://github.com/Zablon5/A2SV/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Zablon5/A2SV/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -23,10 +24,12 @@ Competitive Programming solutions  repo.
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Zablon5/A2SV/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/Zablon5/A2SV/tree/master/1352-maximum-profit-in-job-scheduling) |
 ## Sorting
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Zablon5/A2SV/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/Zablon5/A2SV/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Zablon5/A2SV/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Greedy
 |  |
@@ -56,4 +59,8 @@ Competitive Programming solutions  repo.
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Zablon5/A2SV/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/Zablon5/A2SV/tree/master/1352-maximum-profit-in-job-scheduling) |
 <!---LeetCode Topics End-->
