@@ -1,16 +1,18 @@
 class Solution:
     def climbStairs(self, n: int) -> int:
-        memo={}
-        def rec(n,memo):
-            if n==1:
-               return 1
-            if n==2:
-                return 2   
+
+        def Climb(n, memo):
+            if n == 0:
+                return 1
+            if n < 0:
+                return 0
             if n in memo:
-                    return memo[n]
-            else:
-                
-                memo[n]=rec(n-1,memo)+rec(n-2,memo)
                 return memo[n]
-        
-        return rec(n,memo) 
+            singleSteps = Climb(n-1, memo)
+            twoSteps = Climb(n-2, memo)
+            
+            memo[n] = singleSteps + twoSteps
+            return singleSteps + twoSteps
+        memo = {}
+        Climb(n,memo)
+        return memo[n]
