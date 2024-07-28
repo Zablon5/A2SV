@@ -1,17 +1,20 @@
 class Solution:
     def rob(self, nums: List[int]) -> int:
-        dp=[0]*(len(nums))
-        dp[0]=nums[0]
-        for i in range(1,len(nums)):
-            pick=nums[i]
-            if i>1:
-                pick+=dp[i-2]
-            not_pick=0+dp[i-1]
-            dp[i]=max(pick,not_pick)
-        print(dp)    
-        return dp[len(nums)-1]    
+        def smartRobber(i, nums, memo):
+            if i >= len(nums):
+                return 0
+            if i in memo:
+                return memo[i]
+            oneStepRob = nums[i] + smartRobber(i+2, nums, memo)
+            twoStepRob = nums[i] + smartRobber(i+3, nums, memo)
+            memo[i] = max(oneStepRob, twoStepRob)
+            return memo[i]
+        if len(nums) <= 2:
+            return max(nums)
+        memo = {}
+        ans = 0
+        for i in range(len(nums)):
+            ans = max(smartRobber(i, nums, memo), ans)
 
-       
-       
-   
+        return ans
         
