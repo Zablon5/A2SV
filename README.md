@@ -6,6 +6,7 @@ Competitive Programming solutions  repo.
 ## Array
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/Zablon5/A2SV/tree/master/0198-house-robber) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Zablon5/A2SV/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/Zablon5/A2SV/tree/master/1293-three-consecutive-odds) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Zablon5/A2SV/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -64,6 +65,7 @@ Competitive Programming solutions  repo.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Zablon5/A2SV/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/Zablon5/A2SV/tree/master/0198-house-robber) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Zablon5/A2SV/tree/master/1352-maximum-profit-in-job-scheduling) |
 ## Memoization
 |  |
