@@ -49,6 +49,7 @@ Competitive Programming solutions  repo.
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Zablon5/A2SV/tree/master/0070-climbing-stairs) |
 | [1642-water-bottles](https://github.com/Zablon5/A2SV/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Zablon5/A2SV/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Recursion
@@ -62,5 +63,10 @@ Competitive Programming solutions  repo.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Zablon5/A2SV/tree/master/0070-climbing-stairs) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Zablon5/A2SV/tree/master/1352-maximum-profit-in-job-scheduling) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Zablon5/A2SV/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
