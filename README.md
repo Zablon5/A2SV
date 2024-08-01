@@ -13,6 +13,7 @@ Competitive Programming solutions  repo.
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Zablon5/A2SV/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1803-average-waiting-time](https://github.com/Zablon5/A2SV/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Zablon5/A2SV/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2727-number-of-senior-citizens](https://github.com/Zablon5/A2SV/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,4 +72,8 @@ Competitive Programming solutions  repo.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Zablon5/A2SV/tree/master/0070-climbing-stairs) |
+## String
+|  |
+| ------- |
+| [2727-number-of-senior-citizens](https://github.com/Zablon5/A2SV/tree/master/2727-number-of-senior-citizens) |
 <!---LeetCode Topics End-->
