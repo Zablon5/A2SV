@@ -8,6 +8,7 @@ Competitive Programming solutions  repo.
 | ------- |
 | [0015-3sum](https://github.com/Zablon5/A2SV/tree/master/0015-3sum) |
 | [0198-house-robber](https://github.com/Zablon5/A2SV/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/Zablon5/A2SV/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Zablon5/A2SV/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/Zablon5/A2SV/tree/master/1293-three-consecutive-odds) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Zablon5/A2SV/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -28,6 +29,7 @@ Competitive Programming solutions  repo.
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Zablon5/A2SV/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Zablon5/A2SV/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Zablon5/A2SV/tree/master/1352-maximum-profit-in-job-scheduling) |
 ## Sorting
@@ -74,6 +76,7 @@ Competitive Programming solutions  repo.
 | [0070-climbing-stairs](https://github.com/Zablon5/A2SV/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Zablon5/A2SV/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/Zablon5/A2SV/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/Zablon5/A2SV/tree/master/0300-longest-increasing-subsequence) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Zablon5/A2SV/tree/master/1352-maximum-profit-in-job-scheduling) |
 ## Memoization
 |  |
