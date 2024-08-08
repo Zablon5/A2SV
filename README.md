@@ -101,13 +101,23 @@ Competitive Programming solutions  repo.
 ## Depth-First Search
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/Zablon5/A2SV/tree/master/0820-find-eventual-safe-states) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Zablon5/A2SV/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/Zablon5/A2SV/tree/master/0820-find-eventual-safe-states) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Zablon5/A2SV/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Zablon5/A2SV/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+## Graph
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/Zablon5/A2SV/tree/master/0820-find-eventual-safe-states) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/Zablon5/A2SV/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
