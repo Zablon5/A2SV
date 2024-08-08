@@ -72,6 +72,7 @@ Competitive Programming solutions  repo.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Zablon5/A2SV/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/Zablon5/A2SV/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/Zablon5/A2SV/tree/master/0198-house-robber) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Zablon5/A2SV/tree/master/1352-maximum-profit-in-job-scheduling) |
 ## Memoization
@@ -81,6 +82,7 @@ Competitive Programming solutions  repo.
 ## String
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/Zablon5/A2SV/tree/master/0091-decode-ways) |
 | [2727-number-of-senior-citizens](https://github.com/Zablon5/A2SV/tree/master/2727-number-of-senior-citizens) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Zablon5/A2SV/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
