@@ -20,6 +20,7 @@ Competitive Programming solutions  repo.
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Zablon5/A2SV/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Zablon5/A2SV/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Zablon5/A2SV/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
@@ -37,6 +38,7 @@ Competitive Programming solutions  repo.
 | ------- |
 | [0015-3sum](https://github.com/Zablon5/A2SV/tree/master/0015-3sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Zablon5/A2SV/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Zablon5/A2SV/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Zablon5/A2SV/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Zablon5/A2SV/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Zablon5/A2SV/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -92,4 +94,20 @@ Competitive Programming solutions  repo.
 |  |
 | ------- |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Zablon5/A2SV/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+## Tree
+|  |
+| ------- |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Zablon5/A2SV/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Zablon5/A2SV/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Zablon5/A2SV/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Zablon5/A2SV/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
