@@ -6,6 +6,7 @@ Competitive Programming solutions  repo.
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Zablon5/A2SV/tree/master/0015-3sum) |
 | [0198-house-robber](https://github.com/Zablon5/A2SV/tree/master/0198-house-robber) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Zablon5/A2SV/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/Zablon5/A2SV/tree/master/1293-three-consecutive-odds) |
@@ -22,6 +23,7 @@ Competitive Programming solutions  repo.
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Zablon5/A2SV/tree/master/0015-3sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Zablon5/A2SV/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
@@ -31,6 +33,7 @@ Competitive Programming solutions  repo.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Zablon5/A2SV/tree/master/0015-3sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Zablon5/A2SV/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Zablon5/A2SV/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Zablon5/A2SV/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
