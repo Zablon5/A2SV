@@ -64,6 +64,7 @@ Competitive Programming solutions  repo.
 | [0070-climbing-stairs](https://github.com/Zablon5/A2SV/tree/master/0070-climbing-stairs) |
 | [1642-water-bottles](https://github.com/Zablon5/A2SV/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Zablon5/A2SV/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2556-convert-the-temperature](https://github.com/Zablon5/A2SV/tree/master/2556-convert-the-temperature) |
 ## Recursion
 |  |
 | ------- |
