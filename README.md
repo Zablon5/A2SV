@@ -16,6 +16,7 @@ Competitive Programming solutions  repo.
 | [1803-average-waiting-time](https://github.com/Zablon5/A2SV/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Zablon5/A2SV/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2727-number-of-senior-citizens](https://github.com/Zablon5/A2SV/tree/master/2727-number-of-senior-citizens) |
+| [2845-find-the-value-of-the-partition](https://github.com/Zablon5/A2SV/tree/master/2845-find-the-value-of-the-partition) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@ Competitive Programming solutions  repo.
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Zablon5/A2SV/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Zablon5/A2SV/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Zablon5/A2SV/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2845-find-the-value-of-the-partition](https://github.com/Zablon5/A2SV/tree/master/2845-find-the-value-of-the-partition) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Zablon5/A2SV/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
