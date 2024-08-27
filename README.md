@@ -12,6 +12,7 @@ Competitive Programming solutions  repo.
 | [0350-intersection-of-two-arrays-ii](https://github.com/Zablon5/A2SV/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/Zablon5/A2SV/tree/master/1293-three-consecutive-odds) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Zablon5/A2SV/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Zablon5/A2SV/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Zablon5/A2SV/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1803-average-waiting-time](https://github.com/Zablon5/A2SV/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Zablon5/A2SV/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -126,4 +127,8 @@ Competitive Programming solutions  repo.
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/Zablon5/A2SV/tree/master/0820-find-eventual-safe-states) |
+## Sliding Window
+|  |
+| ------- |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Zablon5/A2SV/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 <!---LeetCode Topics End-->
