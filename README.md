@@ -10,6 +10,7 @@ Competitive Programming solutions  repo.
 | [0198-house-robber](https://github.com/Zablon5/A2SV/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Zablon5/A2SV/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Zablon5/A2SV/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0983-validate-stack-sequences](https://github.com/Zablon5/A2SV/tree/master/0983-validate-stack-sequences) |
 | [1293-three-consecutive-odds](https://github.com/Zablon5/A2SV/tree/master/1293-three-consecutive-odds) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Zablon5/A2SV/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Zablon5/A2SV/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -59,6 +60,7 @@ Competitive Programming solutions  repo.
 ## Simulation
 |  |
 | ------- |
+| [0983-validate-stack-sequences](https://github.com/Zablon5/A2SV/tree/master/0983-validate-stack-sequences) |
 | [1642-water-bottles](https://github.com/Zablon5/A2SV/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/Zablon5/A2SV/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Zablon5/A2SV/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -131,4 +133,8 @@ Competitive Programming solutions  repo.
 |  |
 | ------- |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Zablon5/A2SV/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+## Stack
+|  |
+| ------- |
+| [0983-validate-stack-sequences](https://github.com/Zablon5/A2SV/tree/master/0983-validate-stack-sequences) |
 <!---LeetCode Topics End-->
