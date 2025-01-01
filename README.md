@@ -97,6 +97,7 @@ Competitive Programming solutions  repo.
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/Zablon5/A2SV/tree/master/0091-decode-ways) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Zablon5/A2SV/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2727-number-of-senior-citizens](https://github.com/Zablon5/A2SV/tree/master/2727-number-of-senior-citizens) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Zablon5/A2SV/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
@@ -137,4 +138,8 @@ Competitive Programming solutions  repo.
 |  |
 | ------- |
 | [0983-validate-stack-sequences](https://github.com/Zablon5/A2SV/tree/master/0983-validate-stack-sequences) |
+## Prefix Sum
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Zablon5/A2SV/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
