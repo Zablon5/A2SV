@@ -18,6 +18,7 @@ Competitive Programming solutions  repo.
 | [1803-average-waiting-time](https://github.com/Zablon5/A2SV/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Zablon5/A2SV/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Zablon5/A2SV/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2465-shifting-letters-ii](https://github.com/Zablon5/A2SV/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Zablon5/A2SV/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/Zablon5/A2SV/tree/master/2727-number-of-senior-citizens) |
 | [2845-find-the-value-of-the-partition](https://github.com/Zablon5/A2SV/tree/master/2845-find-the-value-of-the-partition) |
@@ -99,6 +100,7 @@ Competitive Programming solutions  repo.
 | ------- |
 | [0091-decode-ways](https://github.com/Zablon5/A2SV/tree/master/0091-decode-ways) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Zablon5/A2SV/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2465-shifting-letters-ii](https://github.com/Zablon5/A2SV/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Zablon5/A2SV/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/Zablon5/A2SV/tree/master/2727-number-of-senior-citizens) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Zablon5/A2SV/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -144,5 +146,6 @@ Competitive Programming solutions  repo.
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Zablon5/A2SV/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2465-shifting-letters-ii](https://github.com/Zablon5/A2SV/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Zablon5/A2SV/tree/master/2691-count-vowel-strings-in-ranges) |
 <!---LeetCode Topics End-->
