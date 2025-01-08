@@ -24,6 +24,7 @@ Competitive Programming solutions  repo.
 | [2691-count-vowel-strings-in-ranges](https://github.com/Zablon5/A2SV/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/Zablon5/A2SV/tree/master/2727-number-of-senior-citizens) |
 | [2845-find-the-value-of-the-partition](https://github.com/Zablon5/A2SV/tree/master/2845-find-the-value-of-the-partition) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Zablon5/A2SV/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,6 +108,7 @@ Competitive Programming solutions  repo.
 | [2691-count-vowel-strings-in-ranges](https://github.com/Zablon5/A2SV/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/Zablon5/A2SV/tree/master/2727-number-of-senior-citizens) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Zablon5/A2SV/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Zablon5/A2SV/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Counting
 |  |
 | ------- |
@@ -153,4 +155,20 @@ Competitive Programming solutions  repo.
 | [2358-number-of-ways-to-split-array](https://github.com/Zablon5/A2SV/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Zablon5/A2SV/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Zablon5/A2SV/tree/master/2691-count-vowel-strings-in-ranges) |
+## Trie
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Zablon5/A2SV/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Zablon5/A2SV/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## String Matching
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Zablon5/A2SV/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Zablon5/A2SV/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
