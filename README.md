@@ -19,6 +19,7 @@ Competitive Programming solutions  repo.
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Zablon5/A2SV/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Zablon5/A2SV/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Zablon5/A2SV/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Zablon5/A2SV/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/Zablon5/A2SV/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Zablon5/A2SV/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Zablon5/A2SV/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -104,6 +105,7 @@ Competitive Programming solutions  repo.
 | [0091-decode-ways](https://github.com/Zablon5/A2SV/tree/master/0091-decode-ways) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Zablon5/A2SV/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Zablon5/A2SV/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Zablon5/A2SV/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/Zablon5/A2SV/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Zablon5/A2SV/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/Zablon5/A2SV/tree/master/2727-number-of-senior-citizens) |
@@ -166,6 +168,7 @@ Competitive Programming solutions  repo.
 ## String Matching
 |  |
 | ------- |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Zablon5/A2SV/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Zablon5/A2SV/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
