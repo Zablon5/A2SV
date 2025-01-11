@@ -10,6 +10,7 @@ Competitive Programming solutions  repo.
 | [0198-house-robber](https://github.com/Zablon5/A2SV/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Zablon5/A2SV/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Zablon5/A2SV/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0926-find-and-replace-pattern](https://github.com/Zablon5/A2SV/tree/master/0926-find-and-replace-pattern) |
 | [0983-validate-stack-sequences](https://github.com/Zablon5/A2SV/tree/master/0983-validate-stack-sequences) |
 | [1293-three-consecutive-odds](https://github.com/Zablon5/A2SV/tree/master/1293-three-consecutive-odds) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Zablon5/A2SV/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -30,6 +31,7 @@ Competitive Programming solutions  repo.
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Zablon5/A2SV/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0926-find-and-replace-pattern](https://github.com/Zablon5/A2SV/tree/master/0926-find-and-replace-pattern) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Zablon5/A2SV/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Zablon5/A2SV/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
@@ -103,6 +105,7 @@ Competitive Programming solutions  repo.
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/Zablon5/A2SV/tree/master/0091-decode-ways) |
+| [0926-find-and-replace-pattern](https://github.com/Zablon5/A2SV/tree/master/0926-find-and-replace-pattern) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Zablon5/A2SV/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Zablon5/A2SV/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Zablon5/A2SV/tree/master/2292-counting-words-with-a-given-prefix) |
