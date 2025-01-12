@@ -33,6 +33,7 @@ Competitive Programming solutions  repo.
 | [0350-intersection-of-two-arrays-ii](https://github.com/Zablon5/A2SV/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0926-find-and-replace-pattern](https://github.com/Zablon5/A2SV/tree/master/0926-find-and-replace-pattern) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Zablon5/A2SV/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1502-construct-k-palindrome-strings](https://github.com/Zablon5/A2SV/tree/master/1502-construct-k-palindrome-strings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Zablon5/A2SV/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
@@ -59,6 +60,7 @@ Competitive Programming solutions  repo.
 ## Greedy
 |  |
 | ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/Zablon5/A2SV/tree/master/1502-construct-k-palindrome-strings) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Zablon5/A2SV/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Zablon5/A2SV/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Linked List
@@ -106,6 +108,7 @@ Competitive Programming solutions  repo.
 | ------- |
 | [0091-decode-ways](https://github.com/Zablon5/A2SV/tree/master/0091-decode-ways) |
 | [0926-find-and-replace-pattern](https://github.com/Zablon5/A2SV/tree/master/0926-find-and-replace-pattern) |
+| [1502-construct-k-palindrome-strings](https://github.com/Zablon5/A2SV/tree/master/1502-construct-k-palindrome-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Zablon5/A2SV/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Zablon5/A2SV/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Zablon5/A2SV/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -117,6 +120,7 @@ Competitive Programming solutions  repo.
 ## Counting
 |  |
 | ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/Zablon5/A2SV/tree/master/1502-construct-k-palindrome-strings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Zablon5/A2SV/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Tree
 |  |
