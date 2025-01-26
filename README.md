@@ -66,6 +66,7 @@ Competitive Programming solutions  repo.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Zablon5/A2SV/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Zablon5/A2SV/tree/master/0024-swap-nodes-in-pairs) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Zablon5/A2SV/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
@@ -80,6 +81,7 @@ Competitive Programming solutions  repo.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Zablon5/A2SV/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/Zablon5/A2SV/tree/master/0070-climbing-stairs) |
 | [1642-water-bottles](https://github.com/Zablon5/A2SV/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Zablon5/A2SV/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -87,6 +89,7 @@ Competitive Programming solutions  repo.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Zablon5/A2SV/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Zablon5/A2SV/tree/master/0024-swap-nodes-in-pairs) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Zablon5/A2SV/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
