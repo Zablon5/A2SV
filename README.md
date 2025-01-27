@@ -68,6 +68,7 @@ Competitive Programming solutions  repo.
 | ------- |
 | [0002-add-two-numbers](https://github.com/Zablon5/A2SV/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Zablon5/A2SV/tree/master/0024-swap-nodes-in-pairs) |
+| [0328-odd-even-linked-list](https://github.com/Zablon5/A2SV/tree/master/0328-odd-even-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Zablon5/A2SV/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
 |  |
