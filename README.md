@@ -48,6 +48,7 @@ Competitive Programming solutions  repo.
 | [0160-intersection-of-two-linked-lists](https://github.com/Zablon5/A2SV/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Zablon5/A2SV/tree/master/0234-palindrome-linked-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Zablon5/A2SV/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Zablon5/A2SV/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Zablon5/A2SV/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -82,6 +83,7 @@ Competitive Programming solutions  repo.
 | [0160-intersection-of-two-linked-lists](https://github.com/Zablon5/A2SV/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Zablon5/A2SV/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Zablon5/A2SV/tree/master/0328-odd-even-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Zablon5/A2SV/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Zablon5/A2SV/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
 |  |
