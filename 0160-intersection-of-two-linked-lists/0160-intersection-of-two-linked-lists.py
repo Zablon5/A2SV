@@ -6,18 +6,36 @@
 
 class Solution:
     def getIntersectionNode(self, headA: ListNode, headB: ListNode) -> Optional[ListNode]:
-        mp = set()
-        temp = headA
+        
+        def calculateLength(head):
+            length = 0
+            temp = head
+            while temp:
+                length += 1
+                temp = temp.next
+            return length
+        lenA = calculateLength(headA)
+        lenB = calculateLength(headB)
 
-        while temp:
-            mp.add(temp)
-            temp = temp.next
-        temp = headB
-        while temp:
-            if temp in mp:
-                return temp
+        def alignHead(head, n):
+            for _ in range(n):
+                head = head.next
+            return head
+        if lenA > lenB:
+            headA = alignHead(headA, lenA-lenB)
+        else:
+            headB = alignHead(headB, lenB-lenA)
 
-            temp = temp.next
+        while headA and headB:
+            if headA == headB:
+                return headA
+            headA = headA.next
+            headB = headB.next
         return None
+
+        
+            
+
+
     
         
