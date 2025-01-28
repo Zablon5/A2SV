@@ -31,6 +31,7 @@ Competitive Programming solutions  repo.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Zablon5/A2SV/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Zablon5/A2SV/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Zablon5/A2SV/tree/master/0160-intersection-of-two-linked-lists) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Zablon5/A2SV/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0926-find-and-replace-pattern](https://github.com/Zablon5/A2SV/tree/master/0926-find-and-replace-pattern) |
@@ -42,6 +43,7 @@ Competitive Programming solutions  repo.
 | ------- |
 | [0015-3sum](https://github.com/Zablon5/A2SV/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/Zablon5/A2SV/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Zablon5/A2SV/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Zablon5/A2SV/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Zablon5/A2SV/tree/master/0234-palindrome-linked-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Zablon5/A2SV/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -74,6 +76,7 @@ Competitive Programming solutions  repo.
 | [0002-add-two-numbers](https://github.com/Zablon5/A2SV/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Zablon5/A2SV/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/Zablon5/A2SV/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Zablon5/A2SV/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Zablon5/A2SV/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Zablon5/A2SV/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Zablon5/A2SV/tree/master/0328-odd-even-linked-list) |
