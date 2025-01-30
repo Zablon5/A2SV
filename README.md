@@ -47,6 +47,7 @@ Competitive Programming solutions  repo.
 | [0086-partition-list](https://github.com/Zablon5/A2SV/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Zablon5/A2SV/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Zablon5/A2SV/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Zablon5/A2SV/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Zablon5/A2SV/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Zablon5/A2SV/tree/master/0234-palindrome-linked-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Zablon5/A2SV/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -62,6 +63,7 @@ Competitive Programming solutions  repo.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Zablon5/A2SV/tree/master/0015-3sum) |
+| [0148-sort-list](https://github.com/Zablon5/A2SV/tree/master/0148-sort-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Zablon5/A2SV/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Zablon5/A2SV/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Zablon5/A2SV/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -87,6 +89,7 @@ Competitive Programming solutions  repo.
 | [0086-partition-list](https://github.com/Zablon5/A2SV/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Zablon5/A2SV/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Zablon5/A2SV/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Zablon5/A2SV/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Zablon5/A2SV/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Zablon5/A2SV/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Zablon5/A2SV/tree/master/0234-palindrome-linked-list) |
@@ -224,6 +227,7 @@ Competitive Programming solutions  repo.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Zablon5/A2SV/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Zablon5/A2SV/tree/master/0148-sort-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -232,4 +236,5 @@ Competitive Programming solutions  repo.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Zablon5/A2SV/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Zablon5/A2SV/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
