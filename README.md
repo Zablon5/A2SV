@@ -95,6 +95,7 @@ Competitive Programming solutions  repo.
 | [0234-palindrome-linked-list](https://github.com/Zablon5/A2SV/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Zablon5/A2SV/tree/master/0328-odd-even-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Zablon5/A2SV/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Zablon5/A2SV/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Zablon5/A2SV/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Zablon5/A2SV/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
@@ -111,6 +112,7 @@ Competitive Programming solutions  repo.
 | ------- |
 | [0002-add-two-numbers](https://github.com/Zablon5/A2SV/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/Zablon5/A2SV/tree/master/0070-climbing-stairs) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Zablon5/A2SV/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1642-water-bottles](https://github.com/Zablon5/A2SV/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Zablon5/A2SV/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2556-convert-the-temperature](https://github.com/Zablon5/A2SV/tree/master/2556-convert-the-temperature) |
