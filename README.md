@@ -77,6 +77,7 @@ Competitive Programming solutions  repo.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Zablon5/A2SV/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Zablon5/A2SV/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Zablon5/A2SV/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Zablon5/A2SV/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Zablon5/A2SV/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -111,6 +112,7 @@ Competitive Programming solutions  repo.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Zablon5/A2SV/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Zablon5/A2SV/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Zablon5/A2SV/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/Zablon5/A2SV/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Zablon5/A2SV/tree/master/0234-palindrome-linked-list) |
