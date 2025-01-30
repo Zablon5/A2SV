@@ -87,6 +87,7 @@ Competitive Programming solutions  repo.
 | [0203-remove-linked-list-elements](https://github.com/Zablon5/A2SV/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Zablon5/A2SV/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Zablon5/A2SV/tree/master/0328-odd-even-linked-list) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Zablon5/A2SV/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Zablon5/A2SV/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Zablon5/A2SV/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
@@ -156,6 +157,7 @@ Competitive Programming solutions  repo.
 ## Depth-First Search
 |  |
 | ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Zablon5/A2SV/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0820-find-eventual-safe-states](https://github.com/Zablon5/A2SV/tree/master/0820-find-eventual-safe-states) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Zablon5/A2SV/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
@@ -209,4 +211,8 @@ Competitive Programming solutions  repo.
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Zablon5/A2SV/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Zablon5/A2SV/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
