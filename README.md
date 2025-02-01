@@ -15,6 +15,7 @@ Competitive Programming solutions  repo.
 | [1293-three-consecutive-odds](https://github.com/Zablon5/A2SV/tree/master/1293-three-consecutive-odds) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Zablon5/A2SV/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Zablon5/A2SV/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1582-design-browser-history](https://github.com/Zablon5/A2SV/tree/master/1582-design-browser-history) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Zablon5/A2SV/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1803-average-waiting-time](https://github.com/Zablon5/A2SV/tree/master/1803-average-waiting-time) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Zablon5/A2SV/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -98,6 +99,7 @@ Competitive Programming solutions  repo.
 | [0328-odd-even-linked-list](https://github.com/Zablon5/A2SV/tree/master/0328-odd-even-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Zablon5/A2SV/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Zablon5/A2SV/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1582-design-browser-history](https://github.com/Zablon5/A2SV/tree/master/1582-design-browser-history) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Zablon5/A2SV/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Zablon5/A2SV/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
@@ -198,6 +200,7 @@ Competitive Programming solutions  repo.
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Zablon5/A2SV/tree/master/0234-palindrome-linked-list) |
 | [0983-validate-stack-sequences](https://github.com/Zablon5/A2SV/tree/master/0983-validate-stack-sequences) |
+| [1582-design-browser-history](https://github.com/Zablon5/A2SV/tree/master/1582-design-browser-history) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -227,6 +230,7 @@ Competitive Programming solutions  repo.
 |  |
 | ------- |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Zablon5/A2SV/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [1582-design-browser-history](https://github.com/Zablon5/A2SV/tree/master/1582-design-browser-history) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -241,4 +245,12 @@ Competitive Programming solutions  repo.
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Zablon5/A2SV/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Zablon5/A2SV/tree/master/0148-sort-list) |
+## Design
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/Zablon5/A2SV/tree/master/1582-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/Zablon5/A2SV/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
