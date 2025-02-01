@@ -39,6 +39,7 @@ Competitive Programming solutions  repo.
 | [0926-find-and-replace-pattern](https://github.com/Zablon5/A2SV/tree/master/0926-find-and-replace-pattern) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Zablon5/A2SV/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1502-construct-k-palindrome-strings](https://github.com/Zablon5/A2SV/tree/master/1502-construct-k-palindrome-strings) |
+| [1905-design-authentication-manager](https://github.com/Zablon5/A2SV/tree/master/1905-design-authentication-manager) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Zablon5/A2SV/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
@@ -100,6 +101,7 @@ Competitive Programming solutions  repo.
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Zablon5/A2SV/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Zablon5/A2SV/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1582-design-browser-history](https://github.com/Zablon5/A2SV/tree/master/1582-design-browser-history) |
+| [1905-design-authentication-manager](https://github.com/Zablon5/A2SV/tree/master/1905-design-authentication-manager) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Zablon5/A2SV/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Zablon5/A2SV/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
@@ -231,6 +233,7 @@ Competitive Programming solutions  repo.
 | ------- |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Zablon5/A2SV/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1582-design-browser-history](https://github.com/Zablon5/A2SV/tree/master/1582-design-browser-history) |
+| [1905-design-authentication-manager](https://github.com/Zablon5/A2SV/tree/master/1905-design-authentication-manager) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -249,6 +252,7 @@ Competitive Programming solutions  repo.
 |  |
 | ------- |
 | [1582-design-browser-history](https://github.com/Zablon5/A2SV/tree/master/1582-design-browser-history) |
+| [1905-design-authentication-manager](https://github.com/Zablon5/A2SV/tree/master/1905-design-authentication-manager) |
 ## Data Stream
 |  |
 | ------- |
