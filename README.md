@@ -10,6 +10,7 @@ Competitive Programming solutions  repo.
 | [0198-house-robber](https://github.com/Zablon5/A2SV/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Zablon5/A2SV/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Zablon5/A2SV/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0805-escape-the-ghosts](https://github.com/Zablon5/A2SV/tree/master/0805-escape-the-ghosts) |
 | [0926-find-and-replace-pattern](https://github.com/Zablon5/A2SV/tree/master/0926-find-and-replace-pattern) |
 | [0983-validate-stack-sequences](https://github.com/Zablon5/A2SV/tree/master/0983-validate-stack-sequences) |
 | [1293-three-consecutive-odds](https://github.com/Zablon5/A2SV/tree/master/1293-three-consecutive-odds) |
@@ -118,6 +119,7 @@ Competitive Programming solutions  repo.
 | ------- |
 | [0002-add-two-numbers](https://github.com/Zablon5/A2SV/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/Zablon5/A2SV/tree/master/0070-climbing-stairs) |
+| [0805-escape-the-ghosts](https://github.com/Zablon5/A2SV/tree/master/0805-escape-the-ghosts) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Zablon5/A2SV/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1642-water-bottles](https://github.com/Zablon5/A2SV/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Zablon5/A2SV/tree/master/1951-find-the-winner-of-the-circular-game) |
