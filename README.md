@@ -28,6 +28,7 @@ Competitive Programming solutions  repo.
 | [2691-count-vowel-strings-in-ranges](https://github.com/Zablon5/A2SV/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/Zablon5/A2SV/tree/master/2727-number-of-senior-citizens) |
 | [2845-find-the-value-of-the-partition](https://github.com/Zablon5/A2SV/tree/master/2845-find-the-value-of-the-partition) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Zablon5/A2SV/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Zablon5/A2SV/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Table
 |  |
@@ -75,6 +76,7 @@ Competitive Programming solutions  repo.
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Zablon5/A2SV/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2845-find-the-value-of-the-partition](https://github.com/Zablon5/A2SV/tree/master/2845-find-the-value-of-the-partition) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Zablon5/A2SV/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Zablon5/A2SV/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Greedy
 |  |
 | ------- |
@@ -129,6 +131,7 @@ Competitive Programming solutions  repo.
 | [1642-water-bottles](https://github.com/Zablon5/A2SV/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Zablon5/A2SV/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2556-convert-the-temperature](https://github.com/Zablon5/A2SV/tree/master/2556-convert-the-temperature) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Zablon5/A2SV/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Recursion
 |  |
 | ------- |
@@ -267,4 +270,12 @@ Competitive Programming solutions  repo.
 |  |
 | ------- |
 | [1582-design-browser-history](https://github.com/Zablon5/A2SV/tree/master/1582-design-browser-history) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Zablon5/A2SV/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Enumeration
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Zablon5/A2SV/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
