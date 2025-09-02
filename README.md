@@ -20,6 +20,7 @@ Competitive Programming solutions  repo.
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Zablon5/A2SV/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1803-average-waiting-time](https://github.com/Zablon5/A2SV/tree/master/1803-average-waiting-time) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Zablon5/A2SV/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1917-maximum-average-pass-ratio](https://github.com/Zablon5/A2SV/tree/master/1917-maximum-average-pass-ratio) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Zablon5/A2SV/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Zablon5/A2SV/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Zablon5/A2SV/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -82,6 +83,7 @@ Competitive Programming solutions  repo.
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/Zablon5/A2SV/tree/master/1502-construct-k-palindrome-strings) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Zablon5/A2SV/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1917-maximum-average-pass-ratio](https://github.com/Zablon5/A2SV/tree/master/1917-maximum-average-pass-ratio) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Zablon5/A2SV/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Linked List
 |  |
@@ -256,6 +258,7 @@ Competitive Programming solutions  repo.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Zablon5/A2SV/tree/master/0023-merge-k-sorted-lists) |
+| [1917-maximum-average-pass-ratio](https://github.com/Zablon5/A2SV/tree/master/1917-maximum-average-pass-ratio) |
 ## Merge Sort
 |  |
 | ------- |
